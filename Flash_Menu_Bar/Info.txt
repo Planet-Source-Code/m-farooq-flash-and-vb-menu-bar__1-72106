@@ -1,0 +1,10 @@
+Dear downloaders,
+
+It is very pleasure for me to upload this kind of project. This is a menu bar project which is created in Flash 8 and working in VB 6.0 with the help of FSCOMMAND. You can change the Menu Items by editing "MENUBAR.XML" file.
+
+SPECIAL THANKS to Mr Muhammad Akhtar to who helped me to understand and work with FLASH and VB.
+
+In case of any Query, feel free to contact me
+
+Name:  Hafiz Muhammad Farooq
+Email: hafizm.farooq@hotmail.com
