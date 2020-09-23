@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<menu>
+	<menuitem label="File">
+		<menuitem label="New..." />
+		<menuitem label="Open" />
+		<menuitem label="Open from Site..." />
+		<menuitem label="Close" />
+		<menuitem label="Close All" />
+		<menuitem type="separator" />
+		<menuitem label="Save" />
+		<menuitem label="Save and Compact" />
+		<menuitem label="Save As" />
+		<menuitem label="Save as Template" />
+		<menuitem label="Save All" />
+		<menuitem label="Revert" />
+		<menuitem type="separator" />
+		<menuitem label="Import" />
+		<menuitem label="Export" />
+		<menuitem type="separator" />
+		<menuitem label="Exit" />
+	</menuitem>
+	<menuitem label="Edit">
+		<menuitem label="Undo" />
+		<menuitem label="Redo" />
+		<menuitem type="separator" />
+		<menuitem label="Cut" />
+		<menuitem label="Copy" />
+		<menuitem label="Paste" />
+		<menuitem type="separator" />
+		<menuitem label="Select All" />
+		<menuitem label="Unselect All" />
+	</menuitem>
+	<menuitem label="View">
+		<menuitem label="Zoom In" />
+		<menuitem label="Zoom Out" />
+		<menuitem type="separator" />
+		<menuitem label="Preview Mode" />
+		<menuitem type="separator" />
+		<menuitem label="Rulers" />
+		<menuitem label="Grid" />
+		<menuitem type="separator" />
+		<menuitem label="Hide Edges" />
+	</menuitem>
+	<menuitem label="Insert">
+		<menuitem label="New Symbol" />
+		<menuitem type="separator" />
+		<menuitem label="Timeline" />
+		<menuitem label="Timeline Effect" />
+		<menuitem type="separator" />
+		<menuitem label="Scene" />
+	</menuitem>
+	<menuitem label="Modify">
+		<menuitem label="Document" />
+		<menuitem type="separator" />
+		<menuitem label="Bitmap" />
+		<menuitem label="Symbol" />
+		<menuitem label="Shape" />
+	</menuitem>
+	<menuitem label="Text">
+		<menuitem label="Font" />
+		<menuitem label="Size" />
+		<menuitem label="Style" />
+		<menuitem type="separator" />
+		<menuitem label="Align" />
+		<menuitem label="Spacing" />
+	</menuitem>
+	<menuitem label="Commands">
+		<menuitem label="Manage Saved Commands" />
+		<menuitem label="Get More Commands" />
+		<menuitem label="Run Command" />
+		<menuitem type="separator" />
+		<menuitem label="No Commands Found" />
+	</menuitem>
+	<menuitem label="Control">
+		<menuitem label="Play" />
+		<menuitem label="Rewind" />
+		<menuitem label="Go To End" />
+		<menuitem type="separator" />
+		<menuitem label="Test Movie" />
+		<menuitem label="Debug Movie" />
+		<menuitem label="Test Scene" />
+	</menuitem>
+
+</menu>
